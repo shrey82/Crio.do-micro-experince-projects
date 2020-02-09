@@ -1,0 +1,268 @@
+2020-02-01 12:47:28: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2020-02-01 12:54:33: merge conflict not detected during add
+2020-02-01 12:54:33: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_CLI', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 12:54:34: merge conflict not detected during commit
+2020-02-01 12:54:34: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_CLI', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 12:54:34: git push executed
+2020-02-01 12:54:37: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_CLI', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 12:57:31: git status executed
+2020-02-01 12:57:31: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_CLI', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 12:57:55: git status executed
+2020-02-01 12:57:56: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_CLI', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 12:57:56: git remote executed
+2020-02-01 12:57:56: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_CLI', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 12:57:59: merge conflict during pull
+2020-02-01 12:59:13: user knows what is merge conflict: true
+2020-02-01 12:59:13: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 13:00:18: git push executed
+2020-02-01 13:00:18: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 13:02:18: git push executed
+2020-02-01 13:02:18: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 14:22:17: merge conflict not detected during add
+2020-02-01 14:22:19: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 14:22:38: merge conflict not detected during commit
+2020-02-01 14:22:42: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 14:22:43: git push executed
+2020-02-01 14:23:01: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 14:23:02: git status executed
+2020-02-01 14:23:04: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 14:23:43: git status executed
+2020-02-01 14:23:44: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 14:23:44: git remote executed
+2020-02-01 14:23:47: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_FACEBOOK_SHARE_FROM_APK', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-01 14:24:16: merge conflict during pull
+2020-02-01 14:25:30: user knows what is merge conflict: true
+2020-02-01 14:25:37: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_PINTEREST_SHARE', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 08:41:27: merge conflict not detected during add
+2020-02-02 08:41:29: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_PINTEREST_SHARE', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 08:41:42: merge conflict not detected during commit
+2020-02-02 08:41:45: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_PINTEREST_SHARE', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 08:41:45: git push executed
+2020-02-02 08:41:56: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_PINTEREST_SHARE', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 08:43:59: git status executed
+2020-02-02 08:43:59: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_PINTEREST_SHARE', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 08:44:00: git remote executed
+2020-02-02 08:44:00: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_PINTEREST_SHARE', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 08:44:32: merge conflict during pull
+2020-02-02 08:46:36: user knows what is merge conflict: true
+2020-02-02 08:46:39: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_TAG_SUGGESTION', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 09:01:43: merge conflict not detected during add
+2020-02-02 09:01:44: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_TAG_SUGGESTION', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 09:02:07: merge conflict not detected during commit
+2020-02-02 09:02:12: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_TAG_SUGGESTION', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 09:02:13: git push executed
+2020-02-02 09:02:47: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_TAG_SUGGESTION', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-02 09:02:47: git status executed
+2020-02-02 09:02:50: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QEATS_REVIEW_MP', 'module_id': 'ME_QEATS_REVIEW_MP_MODULE_TAG_SUGGESTION', 'cohort_id': 'COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3', 'remote': 'git@gitlab.crio.do:COHORT_ME_QEATS_REVIEW_MP_ENROLL_MINI_PROJECT_3/patelshrey115-ME_QEATS_REVIEW_MP.git'}
+2020-02-05 18:26:41: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2020-02-05 18:30:46: User Details: {'user_id': 'Unknown', 'me_id': 'Unknown', 'module_id': 'Unknown', 'cohort_id': 'Unknown', 'remote': 'Unknown'}
+2020-02-05 18:30:46: git remote executed
+2020-02-05 18:30:46: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 18:31:02: merge conflict not detected during pull
+2020-02-05 18:31:04: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:40:26: merge conflict not detected during add
+2020-02-05 19:40:27: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:40:41: merge conflict not detected during commit
+2020-02-05 19:40:43: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:40:44: git push executed
+2020-02-05 19:40:51: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:41:20: git status executed
+2020-02-05 19:41:20: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:45:37: merge conflict not detected during add
+2020-02-05 19:45:38: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:45:52: merge conflict not detected during commit
+2020-02-05 19:45:54: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:45:55: git push executed
+2020-02-05 19:46:02: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:46:18: git status executed
+2020-02-05 19:46:18: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:49:38: merge conflict not detected during add
+2020-02-05 19:49:39: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:49:51: merge conflict not detected during commit
+2020-02-05 19:49:52: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:49:53: git push executed
+2020-02-05 19:49:59: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:50:15: git status executed
+2020-02-05 19:50:22: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:58:39: merge conflict not detected during add
+2020-02-05 19:58:40: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:58:46: merge conflict not detected during commit
+2020-02-05 19:58:46: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:58:46: git push executed
+2020-02-05 19:58:50: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 19:58:50: git status executed
+2020-02-05 19:58:51: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:13:20: merge conflict not detected during add
+2020-02-05 20:13:21: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:13:31: merge conflict not detected during commit
+2020-02-05 20:13:32: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:13:32: git push executed
+2020-02-05 20:13:37: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:14:42: git status executed
+2020-02-05 20:14:42: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:17:59: merge conflict not detected during add
+2020-02-05 20:17:59: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:18:07: merge conflict not detected during commit
+2020-02-05 20:18:08: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:18:08: git push executed
+2020-02-05 20:18:11: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:18:12: git status executed
+2020-02-05 20:18:13: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:41:23: merge conflict not detected during add
+2020-02-05 20:41:24: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:41:38: merge conflict not detected during commit
+2020-02-05 20:41:40: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:41:41: git push executed
+2020-02-05 20:41:49: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:41:59: git status executed
+2020-02-05 20:41:59: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:50:26: merge conflict not detected during add
+2020-02-05 20:50:27: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:50:41: merge conflict not detected during commit
+2020-02-05 20:50:43: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:50:44: git push executed
+2020-02-05 20:50:52: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:50:55: git status executed
+2020-02-05 20:50:58: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:59:12: merge conflict not detected during add
+2020-02-05 20:59:12: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:59:17: merge conflict not detected during commit
+2020-02-05 20:59:18: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 20:59:18: git push executed
+2020-02-05 20:59:20: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 21:00:58: git status executed
+2020-02-05 21:00:58: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 21:02:23: merge conflict not detected during add
+2020-02-05 21:02:24: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 21:02:33: merge conflict not detected during commit
+2020-02-05 21:02:34: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 21:02:35: git push executed
+2020-02-05 21:02:39: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-05 21:02:42: git status executed
+2020-02-05 21:02:42: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 02:58:32: merge conflict not detected during add
+2020-02-07 02:58:32: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 02:58:33: merge conflict not detected during commit
+2020-02-07 02:58:33: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 02:58:33: git push executed
+2020-02-07 02:58:47: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 03:07:02: git status executed
+2020-02-07 03:07:02: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 03:07:03: git remote executed
+2020-02-07 03:07:03: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_LINUX_COMMANDS', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 03:07:06: merge conflict during pull
+2020-02-07 03:07:12: user knows what is merge conflict: true
+2020-02-07 03:07:12: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 04:56:34: merge conflict during add
+2020-02-07 04:56:42: user knows what is merge conflict: true
+2020-02-07 04:56:43: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 04:56:54: merge conflict during add
+2020-02-07 04:57:21: user knows what is merge conflict: true
+2020-02-07 04:57:21: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 04:57:24: merge conflict not detected during add
+2020-02-07 04:57:24: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 04:57:26: merge conflict not detected during commit
+2020-02-07 04:57:26: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 04:57:26: git push executed
+2020-02-07 04:57:28: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 04:58:57: git status executed
+2020-02-07 04:58:57: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:10:29: merge conflict not detected during add
+2020-02-07 05:10:29: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:10:31: merge conflict not detected during commit
+2020-02-07 05:10:31: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:10:31: git push executed
+2020-02-07 05:10:33: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:10:42: git status executed
+2020-02-07 05:10:42: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:25:24: merge conflict not detected during add
+2020-02-07 05:25:24: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:25:26: merge conflict not detected during commit
+2020-02-07 05:25:26: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:25:26: git push executed
+2020-02-07 05:25:29: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 05:25:33: git status executed
+2020-02-07 05:25:33: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:05:51: merge conflict not detected during add
+2020-02-07 06:05:51: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:05:53: merge conflict not detected during commit
+2020-02-07 06:05:53: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:05:53: git push executed
+2020-02-07 06:05:55: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:06:57: git status executed
+2020-02-07 06:06:58: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:28:36: merge conflict not detected during add
+2020-02-07 06:28:37: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:28:46: merge conflict not detected during commit
+2020-02-07 06:28:47: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:28:48: git push executed
+2020-02-07 06:28:52: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-07 06:28:58: git status executed
+2020-02-07 06:28:58: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 09:00:55: git status executed
+2020-02-09 09:01:03: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 09:01:05: git remote executed
+2020-02-09 09:01:09: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_SERVER_CONFIGURATION', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 09:01:43: merge conflict during pull
+2020-02-09 09:02:23: user knows what is merge conflict: true
+2020-02-09 09:02:25: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 09:57:37: git status executed
+2020-02-09 09:57:37: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 09:57:37: git remote executed
+2020-02-09 09:57:37: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 09:57:39: merge conflict not detected during pull
+2020-02-09 09:57:40: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:03:21: merge conflict during add
+2020-02-09 11:03:35: user knows what is merge conflict: true
+2020-02-09 11:03:36: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'Unknown', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:04:06: merge conflict during add
+2020-02-09 11:04:33: user knows what is merge conflict: true
+2020-02-09 11:04:33: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:04:53: merge conflict not detected during add
+2020-02-09 11:04:54: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:05:38: merge conflict not detected during commit
+2020-02-09 11:05:41: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:05:44: git push executed
+2020-02-09 11:06:02: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:06:02: git status executed
+2020-02-09 11:06:08: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:52:06: merge conflict not detected during add
+2020-02-09 11:52:07: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:52:28: merge conflict not detected during commit
+2020-02-09 11:52:29: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 11:52:29: git push executed
+2020-02-09 11:52:50: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 12:47:26: merge conflict not detected during add
+2020-02-09 12:47:27: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 12:47:46: merge conflict not detected during commit
+2020-02-09 12:47:47: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 12:47:48: git push executed
+2020-02-09 12:48:06: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 14:34:24: merge conflict not detected during add
+2020-02-09 14:34:26: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 14:34:47: merge conflict not detected during commit
+2020-02-09 14:34:48: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 14:34:49: git push executed
+2020-02-09 14:35:00: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:18:46: merge conflict not detected during add
+2020-02-09 16:18:47: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:19:32: merge conflict not detected during commit
+2020-02-09 16:19:36: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:19:38: git push executed
+2020-02-09 16:19:48: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:24:05: merge conflict not detected during add
+2020-02-09 16:24:06: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:24:21: merge conflict not detected during commit
+2020-02-09 16:24:22: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:24:23: git push executed
+2020-02-09 16:24:26: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:24:31: git status executed
+2020-02-09 16:24:32: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:28:20: merge conflict not detected during add
+2020-02-09 16:28:21: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:28:42: merge conflict not detected during commit
+2020-02-09 16:28:45: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:28:46: git push executed
+2020-02-09 16:28:53: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
+2020-02-09 16:29:16: git status executed
+2020-02-09 16:29:16: User Details: {'user_id': 'patelshrey115', 'me_id': 'ME_QBOX', 'module_id': 'ME_QBOX_MODULE_CLIENT_SERVER', 'cohort_id': 'COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020', 'remote': 'git@gitlab.crio.do:COHORT_ME_QBOX_ENROLL_CRIO_LAUNCH_2020/patelshrey115-ME_QBOX.git'}
